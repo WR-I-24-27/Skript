@@ -9,3 +9,10 @@ Dies lässt zwei Fragen offen:
 
 1. Was ist mit dem Schutz des ungeborenen Lebens?
 2. Wann ist ein Mensch Tot?
+
+## Der Anfang der Persönlichkeit
+
+Die Persönlichkeit im privatrechtlichen Sinn beginn mit der vollendeten Geburt
+(Art. 31 Abs. 1 erster Satzteil ZGB). Das heisst allerdings nicht, dass das
+Leben vor der Geburt keinen Schutz geniesst. Dieser ist allerdings im Strafrecht
+geregelt. 
