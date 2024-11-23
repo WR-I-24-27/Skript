@@ -1,18 +1,13 @@
 # Die natürlichen Personen
 
-Der vorliegende Text soll mit dem Beginn und dem Ende der Persönlichkeit
-beginnen. Geregelt wird "Anfang und Ende der Persönlichkeit" in den Art. 31 ff.
-ZGB. Art. 31 Abs. 1 ZGB hält fest "Die Persönlichkeit beginnt mit dem Leben nach
-der vollendeten Geburt und endet mit dem Tode."
+Mit dem Begriff *natürliche Person* sind Menschen gemeint.
 
-Dies lässt zwei Fragen offen:
+Art. 11 Abs. 1 ZGB hält lapidar fest *Rechtsfähig ist jedermann.*
 
-1. Was ist mit dem Schutz des ungeborenen Lebens?
-2. Wann ist ein Mensch Tot?
+Mit dieser kurzen Formulierung ist sichergestellt, dass alle Menschen
+Rechtssubjekte und keine Rechtsobjekte sind. In zeitlicher Hinsicht wird
+die Rechtsfähigkeit durch Art. 31 Abs. 1 ZGB präzisiert. *Die
+Persönlichkeit beginnt mit dem Leben nach der vollendeten Geburt und
+endet mit dem Tode.*
 
-## Der Anfang der Persönlichkeit
 
-Die Persönlichkeit im privatrechtlichen Sinn beginn mit der vollendeten Geburt
-(Art. 31 Abs. 1 erster Satzteil ZGB). Das heisst allerdings nicht, dass das
-Leben vor der Geburt keinen Schutz geniesst. Dieser ist allerdings im Strafrecht
-geregelt. 
