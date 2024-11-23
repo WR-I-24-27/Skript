@@ -27,9 +27,21 @@
 \begin{document}
 
 \begin{tikzpicture}
-    \draw[->, ultra thick] (0,0) -- (5,0);
+    \draw[dotted, ultra thick, gray] (-5,0) -- (-3,0);
+    \draw[dashed, ultra thick, gray] (-3,0) -- (0,0);
+    \draw[->, gray] (-3,2) node[above] {\color{gray}Zeugung} -- (-3,0);
+    \draw[->, ultra thick] (0,0) -- (10,0);
+    \draw[->, green] (0,2) node[above] {\color{black}Geburt} -- (0,0);
+    \draw[->, red] (10,2) node[above] {\color{black}Tod} -- (10,0);
     \draw[decorate, decoration={brace, raise=2ex, amplitude=1ex}] 
-         (0,0) -- (5,0) node[midway, above=2ex]{Lebensspanne};
+         (0,0) -- (10,0) node[midway, above=2ex]{Lebensspanne};
+    \draw[decorate, decoration={brace, raise=2ex, amplitude=1ex}] 
+         (-3,0) -- (0,0) node[midway, above=2ex]{Schwangerschaft};
+    \draw[dotted, ultra thick, gray] (10,0) -- (13,0);
+
+    \draw[decorate, decoration={brace, mirror, raise=2ex, amplitude=1ex}] 
+         (-3,0) -- (0,0) node[midway, below=2ex]{Art.\ 118 ff.\ StGB};
+
 \end{tikzpicture}
 
 \end{document}
