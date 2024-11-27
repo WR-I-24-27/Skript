@@ -8,4 +8,6 @@ Entitäten, welche ähnlich wie Menschen am Rechtsleben teilnehmen können solle
 In einem ersten Teil soll hier das Recht der 
 [natürlichen Personen](natuerliche_personen.md)
 besprochen
-werden. Die juristischen Personen folgen in einem zweiten Teil.
+werden. Die 
+[juristischen Personen](juristische_personen.md)
+folgen in einem zweiten Teil.
