@@ -29,9 +29,9 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 07.11.2024 | Vorgehen bei der Lösung von Rechtsfällen |
 | 11.11.2024 | Übung zur Fallbearbeitung |
 | 14.11.2024 | Test |
-| 21.11.2024 | Personenrecht - Beginn und Ende der Persönlichkeit |
-| 25.11.2024 | Personenrecht - Handlungsfähigkeit |
-| 28.11.2024 | Personenrecht - juristische Personen |
+| 21.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - Beginn und Ende der Persönlichkeit |
+| 25.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - Handlungsfähigkeit |
+| 28.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - juristische Personen |
 | 02.12.2024 | Sachenrecht - Was sind Sachen? |
 | 05.12.2024 | Sachenrecht - Abgrenzung Besitz - Eigentum |
 | 09.12.2024 | Prozessrecht: Einführung in den Zivilprozess |
