@@ -21,3 +21,11 @@ Dabei ist nicht Urteilsfähig, wer aufgrund
 * des Einflusses psychotroper Substanzen
 
 nicht in der Lage ist, vernunftgemäss zu Handeln.
+
+Urteilsfähig ist dementsprechend jemand, der in der Lage ist
+vernunftgemäss zu handeln. Dabei darf daran, was vernünftig ist, eine
+allzu hohen Anforderungen gestellt werden. Vernünftig ist, was
+zumindest halbwegs nachvollziehbar ist. Ob eine konkrete Handlung diese
+Anforderungen erfüllt, beurteilt sich im Einzelfall.
+Es ist daher möglich, dass jemand in Bezug auf eine Handlung
+urteilsfähig ist in Bezug auf eine andere jedoch nicht.
