@@ -32,8 +32,8 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 21.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - Beginn und Ende der Persönlichkeit |
 | 25.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - Handlungsfähigkeit |
 | 28.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - juristische Personen |
-| 02.12.2024 | Sachenrecht - Was sind Sachen? |
-| 05.12.2024 | Sachenrecht - Abgrenzung Besitz - Eigentum |
+| 02.12.2024 | Sachenrecht - [Was sind Sachen?](sachenrecht/sachen.md) |
+| 05.12.2024 | Sachenrecht - [Abgrenzung Besitz - Eigentum](sachenrecht/eigentum.md) |
 | 09.12.2024 | Prozessrecht: Einführung in den Zivilprozess |
 | 12.12.2024 | Prozessrecht: Einführung in den Strafprozess |
 | 16.12.2024 | Prüfungsvorbereitung |

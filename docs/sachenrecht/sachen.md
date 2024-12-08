@@ -24,3 +24,5 @@ selbständige dauernde Rechte.
 ### Bewegliche Sachen
 
 Bewegliche Sachen sind ihrer Natur nach bewegliche Sachen.
+
+## [Besitz und Eigentum](eigentum.md)
