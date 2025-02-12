@@ -10,6 +10,38 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
+| 17.02.2025 | Entstehung von Obligationen |
+| 20.02.2025 | Kaufvertrag |
+| 24.02.2025 | Kaufvertrag |
+| 27.02.2025 | Kaufvertrag |
+| 06.03.2025 | Kaufvertrag |
+| 13.03.2025 | Test (Kaufvertrag erster Teil) |
+| 17.03.2025 | Kaufvertrag |
+| 20.03.2025 | Kaufvertrag |
+| 24.03.2025 | Kaufvertrag |
+| 27.03.2025 | Organisation und Projektmanagement |
+| 31.03.2025 | Organisation und Projektmanagement |
+| 03.04.2025 | Organisation und Projektmanagement |
+| 07.04.2025 | Organisation und Projektmanagement |
+| 10.04.2025 | Organisation und Projektmanagement |
+| 14.04.2025 | Test (Kaufvertrag zweiter Teil & Organisation und Projektmanagement) |
+| 17.04.2025 | Marketing |
+| 05.05.2025 | Marketing |
+| 08.05.2025 | Marketing |
+| 12.05.2025 | Marketing |
+| 15.05.2025 | Marketing |
+| 19.05.2025 | Marketing |
+| 22.05.2025 | Marketing |
+| 26.05.2025 | Marketing |
+| 02.06.2025 | Marketing |
+| 05.06.2025 | Test (Marketing) |
+| 16.06.2025 | Mietrecht |
+| 19.06.2025 | Mietrecht |
+| 23.06.2025 | Mietrecht |
+| 26.06.2025 | Mietrecht |
+| 30.06.2025 | Mietrecht |
+| 03.07.2025 | Mietrecht |
+| 10.07.2025 | Mietrecht |
 
 
 ## Beurteilung
