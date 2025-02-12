@@ -45,3 +45,27 @@ durchgesetzt. Dabei wird die wirtschaftliche Situation des Geschädigten vor und
 nach Eintritt des schädigenden Ereignisses verglichen. Die geldwerte Differenz
 der beiden Zustände stellt den Schaden dar. Der Schaden ist also eine
 Verminderung der Aktiven, eine Erhöhung der Passiven oder entgangener Gewinn.
+
+### Widerrechtlichkeit
+
+Ein Verhalten ist widerrechtlich, wenn damit ein durch die Rechtsordnung
+geschütztes Rechtsgut verletzt wird.
+
+Die Widerrechtlichkeit entfällt, wenn ein Rechtfertigungsgrund vorliegt.
+Rechtfertigungsründe sind die Einwilligung des Verletzten, die Erfüllung
+gesetzlicher Pflichten sowie Notwehr oder Notstand.
+
+### Verschulden (oder anderer Haftungsbegründender Umstand)
+
+Art. 41 OR setzt für die Begründung einer Schadenersatzpflicht ein Verschulden
+des Schädigers voraus. Verschulden heisst, dass dem Schädiger der Eintritt des
+Schadens zum Vorwurf gemacht werden kann. Die Vorwerfbarkeit ist entweder gegeben,
+wenn der Schädiger absichtlich gehandelt hat oder ihm eine pflichtwidrige
+Unsorgfältigkeit (Fahrlässigkeit) zur Last gelegt werden kann.
+
+Neben der beschriebenen Verschuldenshaftung gibt es eine Vielzahl von Fällen, in
+denen eine Schadenersatzpflicht aufgrund besonderer Gegebenheiten entsteht, ohne
+dass dem Schädiger daraus ein Vorwurf gemacht werden kann. Man spricht in diesen
+Fällen von verschuldensunabhängiger Haftpflicht. Das bekannteste Beispiel für
+eine solche verschuldensunabhängige Haftung ist die Haftung des Halters eines
+Motorfahrzeuges nach Art. 58 SVG.
