@@ -6,7 +6,8 @@ zusammengetragen werden.
 ## Programm
 
 Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
-Änderungen kommen.
+Änderungen kommen. Das Programm des letzten Semesters ist 
+[hier archiviert](archive/vergangene_semester.md).
 
 | Datum | Thema |
 | ----- | ----- |
