@@ -82,3 +82,9 @@ naturwissenschaftlichen Sinn - auf ein für das Recht vernünftiges Mass.
 Ohne diese Einschränkung könnte die Verantwortung für den Eintritt eines
 Schadens unbeschränkt weitergegeben werden (zum Beispiel an die Eltern des
 Schädigers - wäre er nicht gezeugt worden, wäre der Schaden nicht eingetreten).
+
+## Die Entstehung einer Obligation aus ungerechtfertigter Bereicherung
+
+Eine Obligation aus ungerechtfertigter Bereicherung im Sinne der Art. 62 ff. OR
+entsteht insbesondere durch die Bezahlung einer nicht vorhandenen Schuld. Zu
+denken ist hier insbesondere an eine fehlgeleitete Zahlung.
