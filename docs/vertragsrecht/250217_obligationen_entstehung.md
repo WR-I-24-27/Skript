@@ -38,3 +38,10 @@ Voraussetzung kumulativ erfüllt sind:
 Die vier Voraussetzungen sollen hier kurz erläutert werden.
 
 ### Schaden
+
+Das OR setzt den Begriff des Schadens einfach voraus, ohne ihn zu definieren.
+In Lehre und Rechtsprechung hat sich die sogenannte Differenztheorie
+durchgesetzt. Dabei wird die wirtschaftliche Situation des Geschädigten vor und
+nach Eintritt des schädigenden Ereignisses verglichen. Die geldwerte Differenz
+der beiden Zustände stellt den Schaden dar. Der Schaden ist also eine
+Verminderung der Aktiven, eine Erhöhung der Passiven oder entgangener Gewinn.
