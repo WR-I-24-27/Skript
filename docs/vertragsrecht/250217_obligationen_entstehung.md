@@ -69,3 +69,16 @@ dass dem Schädiger daraus ein Vorwurf gemacht werden kann. Man spricht in diese
 Fällen von verschuldensunabhängiger Haftpflicht. Das bekannteste Beispiel für
 eine solche verschuldensunabhängige Haftung ist die Haftung des Halters eines
 Motorfahrzeuges nach Art. 58 SVG.
+
+### Adäquater Kausalzusammenhang
+
+Die letzte Voraussetzung für das Vorliegen einer Schadenersatzpflicht ist der
+adäquate Kausalzusammenhang. Dieser wird im Gesetz nicht explizit erwähnt,
+ergibt sich aber aus den allgemeinen Rechtsgrundsätzen.
+
+Der adäquate Kausalzusammenhang ist eine Einschränkung des natürlichen
+Kausalzusammenhangs - der Verknüpfung von Ursache und Wirkung im
+naturwissenschaftlichen Sinn - auf ein für das Recht vernünftiges Mass.
+Ohne diese Einschränkung könnte die Verantwortung für den Eintritt eines
+Schadens unbeschränkt weitergegeben werden (zum Beispiel an die Eltern des
+Schädigers - wäre er nicht gezeugt worden, wäre der Schaden nicht eingetreten).
