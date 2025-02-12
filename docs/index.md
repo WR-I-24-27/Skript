@@ -6,42 +6,43 @@ zusammengetragen werden.
 ## Programm
 
 Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
-Änderungen kommen.
+Änderungen kommen. Das Programm des letzten Semesters ist 
+[hier archiviert](archive/vergangene_semester.md).
 
 | Datum | Thema |
 | ----- | ----- |
-| 22.08.2024 | Einführung WR (Grundbegriffe) |
-| 26.08.2024 | Bedürfnisse & Güterarten |
-| 29.08.2024 | Rendite |
-| 02.09.2024 | ökonomisches Prinzip & Produktivität |
-| 05.09.2024 | Wertschöpfung |
-| 09.09.2024 | Anspruchsgruppen |
-| 12.09.2024 | Umweltsphären |
-| 16.09.2024 | Zielkonflikte |
-| 19.09.2024 | Unternehmenstypologie |
-| 23.09.2024 | Unternehmenstypologie |
-| 26.09.2024 | Test |
-| 21.10.2024 | Einführung ins Recht |
-| 24.10.2024 | Einleitungsartikel ZGB als allgemeine Rechtsgrundsätze |
-| 28.10.2024 | Gewaltenteilung und Gegenüberstellung Privatrecht - öffentliches Recht |
-| 31.10.2024 | Rechtsquellen |
-| 04.11.2024 | Lektüre von Bundesgerichtsentscheiden |
-| 07.11.2024 | Vorgehen bei der Lösung von Rechtsfällen |
-| 11.11.2024 | Übung zur Fallbearbeitung |
-| 14.11.2024 | Test |
-| 21.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - Beginn und Ende der Persönlichkeit |
-| 25.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - Handlungsfähigkeit |
-| 28.11.2024 | [Personenrecht](personenrecht/einfuehrung.md) - juristische Personen |
-| 02.12.2024 | Sachenrecht - [Was sind Sachen?](sachenrecht/sachen.md) |
-| 05.12.2024 | Sachenrecht - [Abgrenzung Besitz - Eigentum](sachenrecht/eigentum.md) |
-| 09.12.2024 | Prozessrecht: Einführung in den Zivilprozess |
-| 12.12.2024 | Prozessrecht: Einführung in den Strafprozess |
-| 16.12.2024 | Prüfungsvorbereitung |
-| 19.12.2024 | Test |
-| 06.01.2025 | Unternehmensleitbild |
-| 09.01.2025 | Unternehmenskonzept |
-| 13.01.2025 | Unternehmensstrategie |
-| 16.01.2025 | Entscheidmethodik |
+| 17.02.2025 | Entstehung von Obligationen |
+| 20.02.2025 | Kaufvertrag |
+| 24.02.2025 | Kaufvertrag |
+| 27.02.2025 | Kaufvertrag |
+| 06.03.2025 | Kaufvertrag |
+| 13.03.2025 | Test (Kaufvertrag erster Teil) |
+| 17.03.2025 | Kaufvertrag |
+| 20.03.2025 | Kaufvertrag |
+| 24.03.2025 | Kaufvertrag |
+| 27.03.2025 | Organisation und Projektmanagement |
+| 31.03.2025 | Organisation und Projektmanagement |
+| 03.04.2025 | Organisation und Projektmanagement |
+| 07.04.2025 | Organisation und Projektmanagement |
+| 10.04.2025 | Organisation und Projektmanagement |
+| 14.04.2025 | Test (Kaufvertrag zweiter Teil & Organisation und Projektmanagement) |
+| 17.04.2025 | Marketing |
+| 05.05.2025 | Marketing |
+| 08.05.2025 | Marketing |
+| 12.05.2025 | Marketing |
+| 15.05.2025 | Marketing |
+| 19.05.2025 | Marketing |
+| 22.05.2025 | Marketing |
+| 26.05.2025 | Marketing |
+| 02.06.2025 | Marketing |
+| 05.06.2025 | Test (Marketing) |
+| 16.06.2025 | Mietrecht |
+| 19.06.2025 | Mietrecht |
+| 23.06.2025 | Mietrecht |
+| 26.06.2025 | Mietrecht |
+| 30.06.2025 | Mietrecht |
+| 03.07.2025 | Mietrecht |
+| 10.07.2025 | Mietrecht |
 
 
 ## Beurteilung
