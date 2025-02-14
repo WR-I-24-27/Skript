@@ -16,3 +16,5 @@ GitHub. Bevor Sie etwas tun, lesen Sie bitte die ganze Anleitung durch.
 8. Die Notizen sind im entsprechenden Eintrag im File `index.md` zu verlinken.
 9. Erstellen Sie die Notizen in einem Branch mit dem Namen `YYMMDD` und mergen
    Sie den Branch, wenn Sie die Notizen fertiggestellt haben.
+
+**Achtung**: Verwenden Sie in Ihrem Repository keine Binärdateien!
