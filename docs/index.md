@@ -57,6 +57,8 @@ verfassen (mindestens ein Commit pro Lektion). Im Gegenzug können Sie via
 PullRequest eine Beurteilung Ihrer Zusammenfassung verlangen. Damit können Sie
 auf die jeweils folgende Prüfung eine Punktegutschrift erhalten. Die Gutschrift
 ist allerdings auf ein Maximum von einer Note beschränkt.
+[Hier](anleitungen/github_notebook.md) finden Sie eine kurze Anleitung mit den
+Auflagen zum Erstellen der Zusammenfassungen.
 
 Falls jemand eine persönliche Besprechung wünscht, [kann er sich hier für
 eine Sprechstunde anmelden](https://calendar.app.google/kPthfpWed3uPP1cC6).
