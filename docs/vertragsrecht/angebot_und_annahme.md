@@ -24,3 +24,13 @@ Grundsätzlich handelt es immer dann um ein Angebot, wenn in einer Situation ein
 blosse Einverständniserklärung (oder eine Handlung, welche das Einverständnis
 zum Ausdruck bring) als übereinstimmende Willenserklärung verstanden werden
 muss.
+
+Im Gesetz wird unterschieden zwischen befristeten und unbefristeten Angeboten.
+Befristete Angebote gelten bis zum Ablauf der festgelegten Frist (Art. 3 Abs. 1
+OR). Bei unbefristeten Angeboten wird differenziert zwischen Angeboten unter
+Anwesenden (Art. 4 OR) und Angeboten unter Abwesenden (Art. 5 OR).  
+Angebote unter Anwesenden gelten nur so lange, wie das Treffen stattfindet.
+Angebote unter Abwesenden gelten so lange, wie der Korrespondenzweg dauert. Das
+heisst, bei einem Angebot per Post, muss die Annahmeerklärung am folgenden Tag
+der Post übergeben werden, für die Annahme eines Angebots per E-Mail, sollte die
+Annahme innert 24 Stunden per E-Mail erklärt werden.
