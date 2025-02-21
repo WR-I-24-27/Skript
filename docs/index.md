@@ -12,7 +12,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | Datum | Thema |
 | ----- | ----- |
 | 17.02.2025 | [Entstehung von Obligationen](vertragsrecht/obligationen_entstehung.md) |
-| 20.02.2025 | Kaufvertrag |
+| 20.02.2025 | Allgemeines Vertragsrecht: [Angebot und Annahme](vertragsrecht/angebot_und_annahme.md) |
 | 24.02.2025 | Kaufvertrag |
 | 27.02.2025 | Kaufvertrag |
 | 06.03.2025 | Kaufvertrag |
