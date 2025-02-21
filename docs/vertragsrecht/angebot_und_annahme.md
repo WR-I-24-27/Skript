@@ -25,6 +25,9 @@ blosse Einverständniserklärung (oder eine Handlung, welche das Einverständnis
 zum Ausdruck bring) als übereinstimmende Willenserklärung verstanden werden
 muss.
 
+Einmal gemachte Angebote sind grundsätzlich verbindlich. Das Gesetz macht
+lediglich Einschränkungen bezüglich der Dauer der Bindung.
+
 Im Gesetz wird unterschieden zwischen befristeten und unbefristeten Angeboten.
 Befristete Angebote gelten bis zum Ablauf der festgelegten Frist (Art. 3 Abs. 1
 OR). Bei unbefristeten Angeboten wird differenziert zwischen Angeboten unter
