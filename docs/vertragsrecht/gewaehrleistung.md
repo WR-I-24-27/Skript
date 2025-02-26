@@ -34,4 +34,16 @@ nachmessen.
 
 Ob ein Kaufgegenstand für den vorausgesetzten Gebrauch tauglich ist, ist
 schwieriger nachzuweisen. Dazu muss zuerst geklärt werden, was alles zum
-vorausgesetzten Gebrauch des Kaufgengenstands gehört.
+vorausgesetzten Gebrauch des Kaufgengenstands gehört. Der Verkäufer muss in
+diesem Zusammenhang auch mit einem gewissen 'Missbrauch' des Verkaufsgegenstands
+rechnen.
+
+## Durchsetzung der Ansprüche des Käufers
+
+Damit der Käufer seine Ansprüche gegenüber dem Verkäufer geltend machen kann,
+muss er den Kaufgegenstand nach dem Kauf prüfen und allfällige Mängel dem
+Verkäufer mitteilen (Art. 201 OR). Mit dieser Mitteilung kann der Käufer
+gleichzeitig mitteilen, was für Ansprüche er geltend macht. Es stehen ihm die
+Rückabwicklung des Kaufes (Wandelung), ein Preisnachlass (Minderung; Art.
+205 OR) oder die Lieferung mangelfreier Ware bei vertretbaren Sachen (Art. 206
+OR) zu Wahl.
