@@ -14,8 +14,8 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 17.02.2025 | [Entstehung von Obligationen](vertragsrecht/obligationen_entstehung.md) |
 | 24.02.2025 | Kaufvertrag: [Vertragsabschluss](vertragsrecht/vertragsabschluss.md) |
 | 27.02.2025 | Kaufvertrag: [Gewährleistung des Verkäufers](vertragsrecht/gewaehrleistung.md) |
-| 06.03.2025 | Kaufvertrag |
-| 13.03.2025 | Test (Kaufvertrag erster Teil) |
+| 06.03.2025 | Kaufvertrag: Verzug |
+| 13.03.2025 | Test (Kaufvertrag erster Teil): [Lernziele](vertragsrecht/lernziele.md) |
 | 17.03.2025 | Kaufvertrag |
 | 20.03.2025 | Kaufvertrag |
 | 24.03.2025 | Kaufvertrag |
